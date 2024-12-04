@@ -10,7 +10,7 @@ Authentication: JWT, Google OAuth 2.0
 Get in Touch
 📫 Email: reyvincentleal@gmail.com
 💼 LinkedIn: www.linkedin.com/in/reylealdev
-🌐 Portfolio: (https://rey-vincent-leal.vercel.app/)
+🌐 Portfolio: ((https://myportfolio-5lcqu4w44-rey-vincent-leals-projects.vercel.app/)
 
 👀 I’m interested in: Exploring new technologies, contributing to open-source projects, and enhancing my skills in fullstack development.
 💞️ I’m looking to collaborate on: Innovative web applications, real-time communication projects, and anything MERN stack related.
